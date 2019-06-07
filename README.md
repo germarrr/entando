@@ -1,2 +1,2 @@
 # entando
-My Entando project 1
+My Entando project 1...
